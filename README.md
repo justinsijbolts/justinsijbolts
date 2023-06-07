@@ -10,4 +10,4 @@ My passion for programming began at a young age, and I have been honing my skill
 ## Experienced with...
 Languages, frameworks, software and more.
 
-![Experiences](https://skillicons.dev/icons?i=cs,cpp,js,html,css,tailwind,unity,cmake,lua,wordpress&perline=5)
+![Experiences](https://skillicons.dev/icons?i=cs,cpp,js,html,css,tailwind,unity,cmake,lua,wordpress,php,mysql,swift&perline=5)
